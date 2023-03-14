@@ -1,8 +1,8 @@
 
 <div>
   <a href=https://github.com/zsafyre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zsafyre&theme=midnight-purple">
-  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsafyre&hide=html,css,plpgsql&langs_count=10&layout=compact&theme=midnight-purple">
+  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=zsafyre&theme=midnight-purple">
+  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsafyre&hide=html,css,plpgsql&langs_count=10&layout=compact&theme=midnight-purple">
 </div>
 
 
