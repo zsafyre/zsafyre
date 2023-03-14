@@ -5,23 +5,23 @@
   <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsafyre&hide=html,css,plpgsql&langs_count=10&layout=compact&theme=midnight-purple">
 </div>
 
-<hr>
+ <hr>
 
 ### Atualmente estudando e aprimorando meus conhecimentos nessas tecnologias!
 
 <div style="display: inline_block">
-<img align="center" alt="html5" src="https://media.discordapp.net/attachments/939600830674370580/1085019582533738496/image.png" />
-<img align="center" alt="html5" src="https://media.discordapp.net/attachments/939600830674370580/1085020164950589510/image.png" />
-<img align="center" alt="html5" src="https://media.discordapp.net/attachments/939600830674370580/1085153067202265168/image.png" />
-<img align="center" alt="html5" src="https://media.discordapp.net/attachments/939600830674370580/1085152845310988428/image.png" />
-<img align="center" alt="html5" src="https://media.discordapp.net/attachments/939600830674370580/1085152947647823942/image.png" />
-<img align="center" alt="html5" src="https://media.discordapp.net/attachments/939600830674370580/1085152573301993512/image.png" />
-<img align="center" alt="html5" src="https://media.discordapp.net/attachments/939600830674370580/1085012291373781002/Sem_Titulo-1.png" />
-<img align="center" alt="html5" src="https://media.discordapp.net/attachments/939600830674370580/1085152899446866011/image.png" />
-<img align="center" alt="html5" src="https://media.discordapp.net/attachments/939600830674370580/1085152986864558120/image.png" />
+  <img align="center" alt="html5" src="https://media.discordapp.net/attachments/939600830674370580/1085019582533738496/image.png" />
+  <img align="center" alt="html5" src="https://media.discordapp.net/attachments/939600830674370580/1085020164950589510/image.png" />
+  <img align="center" alt="html5" src="https://media.discordapp.net/attachments/939600830674370580/1085153067202265168/image.png" />
+  <img align="center" alt="html5" src="https://media.discordapp.net/attachments/939600830674370580/1085152845310988428/image.png" />
+  <img align="center" alt="html5" src="https://media.discordapp.net/attachments/939600830674370580/1085152947647823942/image.png" />
+  <img align="center" alt="html5" src="https://media.discordapp.net/attachments/939600830674370580/1085152573301993512/image.png" />
+  <img align="center" alt="html5" src="https://media.discordapp.net/attachments/939600830674370580/1085012291373781002/Sem_Titulo-1.png" />
+  <img align="center" alt="html5" src="https://media.discordapp.net/attachments/939600830674370580/1085152899446866011/image.png" />
+  <img align="center" alt="html5" src="https://media.discordapp.net/attachments/939600830674370580/1085152986864558120/image.png" />
 </div>
 
-<hr>
+ <hr>
 
 ### Sobre mim:
 
