@@ -12,8 +12,8 @@
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://media.discordapp.net/attachments/939600830674370580/1085019582533738496/image.png" />
   <img align="center" alt="css3" src="https://media.discordapp.net/attachments/939600830674370580/1085020164950589510/image.png" />
-  <img align="center" alt="python" src="https://media.discordapp.net/attachments/940819905090031677/1119093601679454289/python.png" />
-  <img align="center" alt="java" src="https://media.discordapp.net/attachments/940819905090031677/1119093601994014770/java.png" />
+  <img align="center" alt="python" src="https://media.discordapp.net/attachments/749593302176628797/1119096434176823396/python.png" />
+  <img align="center" alt="java" src="https://media.discordapp.net/attachments/749593302176628797/1119096434403311636/java.png" />
   <img align="center" alt="javascript" src="https://media.discordapp.net/attachments/939600830674370580/1085153067202265168/image.png" />
   <img align="center" alt="typescript" src="https://media.discordapp.net/attachments/939600830674370580/1085152845310988428/image.png" />
   <img align="center" alt="react" src="https://media.discordapp.net/attachments/939600830674370580/1085152947647823942/image.png" />
