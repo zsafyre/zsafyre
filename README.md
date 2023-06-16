@@ -19,6 +19,7 @@
   <img align="center" alt="react" src="https://media.discordapp.net/attachments/939600830674370580/1085152947647823942/image.png" />
   <img align="center" alt="node" src="https://media.discordapp.net/attachments/939600830674370580/1085152573301993512/image.png" />
   <img align="center" alt="bootstrap" src="https://media.discordapp.net/attachments/939600830674370580/1085012291373781002/Sem_Titulo-1.png" />
+
   <img align="center" alt="sql" src="https://media.discordapp.net/attachments/939600830674370580/1085152899446866011/image.png" />
   <img align="center" alt="mongo" src="https://media.discordapp.net/attachments/939600830674370580/1085152986864558120/image.png" />
 </div>
