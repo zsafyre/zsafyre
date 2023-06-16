@@ -15,11 +15,6 @@
   <img align="center" alt="python" src="https://media.discordapp.net/attachments/749593302176628797/1119096434176823396/python.png" />
   <img align="center" alt="java" src="https://media.discordapp.net/attachments/749593302176628797/1119096434403311636/java.png" />
   <img align="center" alt="javascript" src="https://media.discordapp.net/attachments/939600830674370580/1085153067202265168/image.png" />
-  <img align="center" alt="typescript" src="https://media.discordapp.net/attachments/939600830674370580/1085152845310988428/image.png" />
-  <img align="center" alt="react" src="https://media.discordapp.net/attachments/939600830674370580/1085152947647823942/image.png" />
-  <img align="center" alt="node" src="https://media.discordapp.net/attachments/939600830674370580/1085152573301993512/image.png" />
-  <img align="center" alt="bootstrap" src="https://media.discordapp.net/attachments/939600830674370580/1085012291373781002/Sem_Titulo-1.png" />
-
   <img align="center" alt="sql" src="https://media.discordapp.net/attachments/939600830674370580/1085152899446866011/image.png" />
   <img align="center" alt="mongo" src="https://media.discordapp.net/attachments/939600830674370580/1085152986864558120/image.png" />
 </div>
