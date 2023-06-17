@@ -23,7 +23,7 @@
 
 ### Sobre mim:
 
-Olá rede, meu nome é Alexandre Reis sou desenvolvedor Javascript e no meu tempo livre as vezes designer. Sempre buscando receber e compartilhar conhecimento, caso queira falar comigo basta entrar em contato!
+Olá rede, meu nome é Alexandre Reis sou desenvolvedor e no meu tempo livre as vezes designer. Sempre buscando receber e compartilhar conhecimento, caso queira falar comigo basta entrar em contato!
 
 [![Linkedin](https://media.discordapp.net/attachments/939600830674370580/1085153023849930824/image.png)](https://www.linkedin.com/in/alexandre-reis-175252238/)
 [![Behance](https://media.discordapp.net/attachments/939600830674370580/1085152789874876436/image.png)](https://www.behance.net/alexandrebento2)
