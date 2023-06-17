@@ -2,7 +2,8 @@
 <div>
   <a href=https://github.com/zsafyre">
   <img height="48%" src="https://github-readme-stats.vercel.app/api?username=zsafyre&theme=midnight-purple">
-  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsafyre&theme=midnight-purple&layout=compact)](https://github.com/zsafyre/github-readme-stats">
+  <img height="48%" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=zsafyre&theme=midnight-purple&layout=compact)](https://github.com/zsafyre/github-readme-stats)
+">
 </div>
 
  <hr>
