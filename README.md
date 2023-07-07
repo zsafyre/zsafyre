@@ -12,7 +12,7 @@
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://media.discordapp.net/attachments/939600830674370580/1085019582533738496/image.png" />
   <img align="center" alt="css3" src="https://media.discordapp.net/attachments/939600830674370580/1085020164950589510/image.png" />
-  <img align="center" alt="python" src="https://media.discordapp.net/attachments/749593302176628797/1119096434176823396/python.png" />
+  <img align="center" alt="python" src="https://media.discordapp.net/attachments/939597741317816320/1126721256809582622/python.png" />
   <img align="center" alt="java" src="https://media.discordapp.net/attachments/939597741317816320/1121163426245378068/java.png" />
   <img align="center" alt="javascript" src="https://media.discordapp.net/attachments/939600830674370580/1085153067202265168/image.png" />
   <img align="center" alt="sql" src="https://media.discordapp.net/attachments/939600830674370580/1085152899446866011/image.png" />
